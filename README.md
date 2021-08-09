@@ -1,2 +1,4 @@
 # myRexxCodes
-Rexx programs that I wrote while Iearning Rexx.
+Rexx programs that I wrote while learning Rexx.
+Stay tuned..
+
